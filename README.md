@@ -5,6 +5,8 @@ quick how-to use it:
 1. install AHK on your machine
 2. run "find_coords.ahk"
 3. Press "F1" to get a tooltip of current mouse's X and Y coords (useful for later)
+4. Press "F2" to get a tooltip of currnet mouse'x Y and Y coords
+5. Press "F3" to get the X and Y diff between F1 and F2 coords.
 
 
 ## Requirements
