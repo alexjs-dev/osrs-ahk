@@ -24,36 +24,52 @@ The rest - Absobption potions
 
 ### Setup initial mouse pos
 This should be the middle pixel of the 1st item (Overload) - use F1 for find_coords.ahk
+```
 startX := 3385 ;
 startY := 920 ;
+```
 
 ### Setup mouse travel X
 This should be the X distance for 1st and 2nd item - use F1, F2, and F3. F3 will show you the diff for X and Y. tldr; dist between 1st and 2nd item.
+```
 distanceTravelX := 102 ;
+```
 
 ### Setup mouse travel Y
 This should be the Y distance for 1st item on first row and 1nd item on second row - use F1, F2, and F3. F3 will show you the diff for X and Y. tldr; dist between 1st item and 5th item.
+```
 distanceTravelY := 81 ;
+```
 
 ### Setup coords for rock cake
 Coords for rock cake (should be last item in your inventory)
+```
 rockCakeX := 3677
 rockCakeY := 1429
+```
 
 ### Setup coords for quick-prayers
-Find PrayerToggle(), change the
+Find
+```PrayerToggle()```
+change the
+```
 xClick := 3414
 yClick := 265
+```
 to your coords for quick-prayers.
 
 
 ### Optional: Change start/stop key
 If you want to change the start/stop key for script (Default NumPad 0) - Find this
+```
 ; Hotkey to start/stop the script with NumPad 0
 \::
+```
 
 change to any key you want eg. F1
+```
 F1::
+```
 
 
 
