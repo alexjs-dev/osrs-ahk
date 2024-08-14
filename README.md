@@ -14,9 +14,11 @@ Set quick-prayers to rapid heal (only rapid heal)
 Edit the config to adjust the coords.
 
 ## Get the following inventory setup:
+```
 1st row - Overloads (4) x4
 28th item - Rock cake
 The rest - Absobption potions
+```
 
 
 ## Config setup
