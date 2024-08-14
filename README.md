@@ -11,9 +11,12 @@ quick how-to use it:
 
 ## Requirements
 for NMZ training I recommend: nmz absorb.ahk
-Requirements: 51 HP, Rock cake, Full-screen Rune-Lite or other launched (so coords are always static).
-Set quick-prayers to rapid heal (only rapid heal)
-Edit the config to adjust the coords.
+Requirements:
+- 51 HP
+- Rock cake
+- Full-screen Rune-Lite or other launched (so coords are always static)
+- Set quick-prayers to rapid heal (only rapid heal)
+- Edit the config (details below)
 
 ## Get the following inventory setup:
 ```
